@@ -21,7 +21,7 @@ A tool matrix for Russian APTs based on the Ransomware Tool Matrix
 - [Defense Evasion Tools](https://github.com/BushidoUK/Russian-APT-Tool-Matrix/blob/main/Tools/DefenseEvasion.md)
 - [Networking Tools](https://github.com/BushidoUK/Russian-APT-Tool-Matrix/blob/main/Tools/Networking.md)
 - [Discovery Tools](https://github.com/BushidoUK/Russian-APT-Tool-Matrix/blob/main/Tools/Discovery.md)
-- Offensive Security Tools
+- [Offensive Security Tools](https://github.com/BushidoUK/Russian-APT-Tool-Matrix/blob/main/Tools/Offsec.md)
 - Living-off-the-Land Binaries and Scripts
 
 ## Threat Intel Sources
