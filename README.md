@@ -28,7 +28,7 @@ A tool matrix for Russian APTs based on the Ransomware Tool Matrix
 - XYZ
 
 ## Additional Resources
-- List of Tools used by +10 Russian APTs
+- List of Tools used by +5 Russian APTs
 - [List of Russian APT group profiles](https://github.com/BushidoUK/Russian-APT-Tool-Matrix/tree/main/GroupProfiles)
 - List of All Tools by Type
 
