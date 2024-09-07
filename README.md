@@ -42,7 +42,7 @@ A tool matrix for Russian APTs based on the Ransomware Tool Matrix
 
 ## Challenges
 > [!IMPORTANT]
-> Using the Ransomware Tool Matrix comes with its own challenges. While it is undoubtedly useful to have a list of tools commonly used by ransomware gangs to hunt, detect, and block, there are some risks.
+> Using the Russian APT Tool Matrix comes with its own challenges. While it is undoubtedly useful to have a list of tools commonly used by Russian APTs to hunt, detect, and block, there are some risks.
 > - Many of the tools referenced in this repository may be currently used by your IT team or even your Cybersecurity team.
 > - When hunting for these tools, you may uncover many installations of them inside your environment.
 > - Deciphering whether a tool is being used legitimately, by an employee, with permission is difficult in a large or global environment.
