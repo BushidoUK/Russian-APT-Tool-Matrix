@@ -24,8 +24,8 @@ A tool matrix for Russian APTs based on the Ransomware Tool Matrix
 - [Offensive Security Tools](https://github.com/BushidoUK/Russian-APT-Tool-Matrix/blob/main/Tools/Offsec.md)
 - [Living-off-the-Land Binaries and Scripts](https://github.com/BushidoUK/Russian-APT-Tool-Matrix/blob/main/Tools/LOLBAS.md)
 
-## Threat Intel Sources
-- XYZ
+## Sources
+- [Threat Intelligence](https://github.com/BushidoUK/Russian-APT-Tool-Matrix/blob/main/Other/ThreatIntelligence.md)
 
 ## Additional Resources
 - List of Tools used by +5 Russian APTs
