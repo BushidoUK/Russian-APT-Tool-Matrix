@@ -16,7 +16,7 @@ A tool matrix for Russian APTs based on the Ransomware Tool Matrix
 
 ## Russian APT Tool Matrix
 - [RMM Tools](https://github.com/BushidoUK/Russian-APT-Tool-Matrix/blob/main/Tools/RMM-Tools.md)
-- Exfiltration Tools
+- [Exfiltration Tools](https://github.com/BushidoUK/Russian-APT-Tool-Matrix/blob/main/Tools/Exfiltration.md)
 - Credential Theft Tools
 - Defense Evasion Tools
 - Networking Tools
