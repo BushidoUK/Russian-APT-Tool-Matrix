@@ -20,7 +20,7 @@ A tool matrix for Russian APTs based on the Ransomware Tool Matrix
 - [Credential Theft Tools](https://github.com/BushidoUK/Russian-APT-Tool-Matrix/blob/main/Tools/CredentialTheft.md)
 - [Defense Evasion Tools](https://github.com/BushidoUK/Russian-APT-Tool-Matrix/blob/main/Tools/DefenseEvasion.md)
 - [Networking Tools](https://github.com/BushidoUK/Russian-APT-Tool-Matrix/blob/main/Tools/Networking.md)
-- Discovery Tools
+- [Discovery Tools](https://github.com/BushidoUK/Russian-APT-Tool-Matrix/blob/main/Tools/Discovery.md)
 - Offensive Security Tools
 - Living-off-the-Land Binaries and Scripts
 
