@@ -34,7 +34,7 @@ A tool matrix for Russian APTs based on the Ransomware Tool Matrix
 
 ## Types of Russian APTs
 > [!TIP]
-> This repo also contains multiple types of Ransomware adversaries, this includes the ransomware gangs themselves, affiliates, and initial access brokers
+> This repo also contains multiple types of Russian APTs, this includes the GRU, SVR, and FSB
 > - **Russian GRU:** XYZ
 > - **Russian SVR:** XYZ
 > - **Russian FSB:** XYZ
