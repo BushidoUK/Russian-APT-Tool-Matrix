@@ -50,4 +50,4 @@ A tool matrix for Russian APTs based on the Ransomware Tool Matrix
 > - If you block these tools without investigating for legitimate usage, you may cause disruption to legitimate business operations and potentially impose costs on your own organisation.
 
 #### How To Contribute
-- Please see the following [guidelines]() to contribute to this repo.
+- Please see the following [guidelines](https://github.com/BushidoUK/Russian-APT-Tool-Matrix/blob/main/Other/HowToContribute.md) to contribute to this repo.
