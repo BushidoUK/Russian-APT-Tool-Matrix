@@ -13,4 +13,7 @@
 |---|---|
 | Cobalt Strike | COZY BEAR |
 | Impacket | COZY BEAR |
+| PowerSploit | COZY BEAR |
+| Rubeus | COZY BEAR |
 | Sliver | COZY BEAR |
+| WinPEAS | COZY BEAR |
