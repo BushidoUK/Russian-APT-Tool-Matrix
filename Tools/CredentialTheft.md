@@ -11,3 +11,4 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | Mimikatz | COZY BEAR |
+| SharpChromium | COZY BEAR |
