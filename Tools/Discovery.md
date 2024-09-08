@@ -14,4 +14,5 @@
 | AADInternals | COZY BEAR |
 | AdFind | COZY BEAR |
 | Bloodhound | COZY BEAR |
+| DSInternals | COZY BEAR |
 | RoadTools | COZY BEAR |
