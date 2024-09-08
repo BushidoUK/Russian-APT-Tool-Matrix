@@ -10,4 +10,5 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| | |
+| OneDrive | COZY BEAR |
+| Dropbox | COZY BEAR |
