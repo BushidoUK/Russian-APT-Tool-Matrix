@@ -11,4 +11,5 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| | |
+| Cobalt Strike | COZY BEAR |
+| Sliver | COZY BEAR |
