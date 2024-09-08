@@ -10,5 +10,9 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| OneDrive | COZY BEAR |
 | Dropbox | COZY BEAR |
+| Firebase | COZY BEAR |
+| Google Drive | COZY BEAR |
+| Notion | COZY BEAR |
+| OneDrive | COZY BEAR |
+| Trello | COZY BEAR |
