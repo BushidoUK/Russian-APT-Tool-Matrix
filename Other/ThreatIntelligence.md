@@ -6,7 +6,7 @@
 
 | Date Published | Russian APT | Report |
 |---|---|---|
-| date | name | link |
+| 25 October 2021 | COZY BEAR | https://www.microsoft.com/en-us/security/blog/2021/10/25/nobelium-targeting-delegated-administrative-privileges-to-facilitate-broader-attacks/ |
 
 > [!NOTE]
 > This list will also be used by others to contribute additional threat intelligence about tools used by Russian APTs to the repo.
