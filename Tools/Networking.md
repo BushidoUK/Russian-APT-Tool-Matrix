@@ -12,4 +12,6 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
+| Dropbear | COZY BEAR |
+| ReGeorg | COZY BEAR |
 | Rsockstun | COZY BEAR |
