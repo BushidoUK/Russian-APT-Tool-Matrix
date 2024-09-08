@@ -2,7 +2,7 @@
 
 | Discovery | RMM Tools | Defense Evasion | Credential Theft | OffSec | Networking | LOLBAS | Exfiltration |
 |---|---|---|---|---|---|---|---|
-| AADInternals | | | | | | | |
+| AADInternals | | EDRSandBlast | | | | | |
 | AdFind | | | | | | | |
 | Bloodhound | | | | | | | |
 | DSInternals | | | | | | | |
