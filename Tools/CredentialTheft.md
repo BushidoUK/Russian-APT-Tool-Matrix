@@ -10,4 +10,4 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| | |
+| Mimikatz | COZY BEAR |
