@@ -6,6 +6,7 @@
 
 | Date Published | Russian APT | Report |
 |---|---|---|
+| 13 December 2023 | COZY BEAR | https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-347a | 
 | 2 May 2022 | COZY BEAR | https://cloud.google.com/blog/topics/threat-intelligence/unc3524-eye-spy-email/ |
 | 25 October 2021 | COZY BEAR | https://www.microsoft.com/en-us/security/blog/2021/10/25/nobelium-targeting-delegated-administrative-privileges-to-facilitate-broader-attacks/ |
 | 27 May 2021 | COZY BEAR | https://www.microsoft.com/en-us/security/blog/2021/05/27/new-sophisticated-email-based-attack-from-nobelium/ |
