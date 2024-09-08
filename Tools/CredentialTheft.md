@@ -10,5 +10,6 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
+| CookieEditor | COZY BEAR |
 | Mimikatz | COZY BEAR |
 | SharpChromium | COZY BEAR |
