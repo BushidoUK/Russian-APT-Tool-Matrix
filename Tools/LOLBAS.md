@@ -11,5 +11,6 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
+| MiniDump | FANCY BEAR |
 | PsExec | COZY BEAR |
 | WMIC | COZY BEAR |
