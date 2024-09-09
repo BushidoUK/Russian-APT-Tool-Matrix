@@ -13,6 +13,9 @@
 | 25 October 2021 | COZY BEAR | https://www.microsoft.com/en-us/security/blog/2021/10/25/nobelium-targeting-delegated-administrative-privileges-to-facilitate-broader-attacks/ |
 | 27 May 2021 | COZY BEAR | https://www.microsoft.com/en-us/security/blog/2021/05/27/new-sophisticated-email-based-attack-from-nobelium/ |
 | 18 December 2020 | COZY BEAR | https://www.microsoft.com/en-us/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/ |
+| 6 June 2018 | FANCY BEAR | https://unit42.paloaltonetworks.com/unit42-sofacy-groups-parallel-attacks/ |
+| 11 August 2017 | FANCY BEAR | https://web.archive.org/web/20170811181009/https://www.fireeye.com/blog/threat-research/2017/08/apt28-targets-hospitality-sector.html |
+| 4 December 2015 | FANCY BEAR | https://securelist.com/sofacy-apt-hits-high-profile-targets-with-updated-toolset/72924/ |
 
 > [!NOTE]
 > This list will also be used by others to contribute additional threat intelligence about tools used by Russian APTs to the repo.
