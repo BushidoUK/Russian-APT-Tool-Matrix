@@ -18,8 +18,10 @@
 | 18 December 2020 | COZY BEAR | https://www.microsoft.com/en-us/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/ |
 | 10 September 2020 | FANCY BEAR | https://www.microsoft.com/en-us/security/blog/2020/09/10/strontium-detecting-new-patters-credential-harvesting/ |
 | 6 June 2018 | FANCY BEAR | https://unit42.paloaltonetworks.com/unit42-sofacy-groups-parallel-attacks/ |
+| 18 April 2018 | FANCY BEAR | https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-108 |
 | 11 August 2017 | FANCY BEAR | https://web.archive.org/web/20170811181009/https://www.fireeye.com/blog/threat-research/2017/08/apt28-targets-hospitality-sector.html |
 | 4 December 2015 | FANCY BEAR | https://securelist.com/sofacy-apt-hits-high-profile-targets-with-updated-toolset/72924/ |
+| 18 April 2015 | FANCY BEAR | https://cloud.google.com/blog/topics/threat-intelligence/probable-apt28-useo/ |
 
 > [!NOTE]
 > This list will also be used by others to contribute additional threat intelligence about tools used by Russian APTs to the repo.
