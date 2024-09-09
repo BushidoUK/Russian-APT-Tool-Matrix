@@ -13,5 +13,6 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | Dropbear | COZY BEAR |
-| ReGeorg | COZY BEAR |
+| OpenSSH | FANCY BEAR |
+| ReGeorg | COZY BEAR, FANCY BEAR |
 | Rsockstun | COZY BEAR |
