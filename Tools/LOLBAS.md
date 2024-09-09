@@ -13,5 +13,5 @@
 |---|---|
 | MiniDump | FANCY BEAR |
 | PsExec | COZY BEAR |
-| Windows Event Utility (wevtutil) | |
+| Windows Event Utility (wevtutil) | FANCY BEAR |
 | WMIC | COZY BEAR |
