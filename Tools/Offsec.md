@@ -12,8 +12,11 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | Cobalt Strike | COZY BEAR |
-| Impacket | COZY BEAR |
+| Impacket | COZY BEAR, FANCY BEAR |
+| Koadic | FANCY BEAR |
+| Nishang | FANCY BEAR |
 | PowerSploit | COZY BEAR |
+| Responder | FANCY BEAR |
 | Rubeus | COZY BEAR |
 | Sliver | COZY BEAR |
 | WinPEAS | COZY BEAR |
