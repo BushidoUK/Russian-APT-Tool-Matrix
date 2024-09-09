@@ -15,7 +15,9 @@
 | Impacket | COZY BEAR, FANCY BEAR |
 | Koadic | FANCY BEAR |
 | Nishang | FANCY BEAR |
+| Metasploit | FANCY BEAR |
 | PowerSploit | COZY BEAR |
+| PowerShell Empire | FANCY BEAR |
 | Responder | FANCY BEAR |
 | Rubeus | COZY BEAR |
 | Sliver | COZY BEAR |
