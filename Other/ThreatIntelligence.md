@@ -8,6 +8,7 @@
 |---|---|---|
 | 28 December 2023 | FANCY BEAR | https://cert.gov.ua/article/6276894 |
 | 13 December 2023 | COZY BEAR | https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-347a | 
+| 8 December 2023 | FANCY BEAR | https://securityintelligence.com/x-force/itg05-ops-leverage-israel-hamas-conflict-lures-to-deliver-headlace-malware/ |
 | 27 January 2023 | COZY BEAR | https://go.recordedfuture.com/hubfs/reports/cta-2023-0127.pdf |
 | 2 May 2022 | COZY BEAR | https://cloud.google.com/blog/topics/threat-intelligence/unc3524-eye-spy-email/ |
 | 27 January 2022 | COZY BEAR | https://www.crowdstrike.com/blog/observations-from-the-stellarparticle-campaign/ | 
