@@ -5,7 +5,7 @@
 | | | | | | | | |
 
 > [!NOTE]
-> This is the list of tools that have been observed during various intrusions that have been attributed to FANCY BEAR
+> This is the list of tools that have been observed during various intrusions that have been attributed to Gamaredon
 
 #### Sources
 | Date Published | Report |
