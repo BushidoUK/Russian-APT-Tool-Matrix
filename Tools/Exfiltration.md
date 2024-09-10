@@ -14,5 +14,7 @@
 | Firebase | COZY BEAR |
 | Google Drive | COZY BEAR |
 | Notion | COZY BEAR |
+| MEGA | EMBER BEAR |
 | OneDrive | COZY BEAR |
 | Trello | COZY BEAR |
+| Rclone | EMBER BEAR |
