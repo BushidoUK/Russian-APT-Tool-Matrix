@@ -2,12 +2,18 @@
 
 | Discovery | RMM Tools | Defense Evasion | Credential Theft | OffSec | Networking | LOLBAS | Exfiltration |
 |---|---|---|---|---|---|---|---|
-| | | libprocesshider | | JuicyPotatoNG | Chisel | | |
+| | RemCom | libprocesshider | | JuicyPotatoNG | Chisel | | |
 | | | SDelete | | RottenPotatoNG | Pivotnacci | | |
-| | | | | Weevely Web Shell | ReGeorg | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
+| | | | | Impacket | ReGeorg | | |
+| | | | | Cobalt Strike | | | |
+| | | | | PowerShell Empire | | | |
+| | | | | Empyre | | | |
+| | | | | Metasploit | | | |
+| | | | | Meterpreter | | | |
+| | | | | PAS Web Shell | | | |
+| | | | | WSO Web Shell | | | |
+| | | | | Weevely Web Shell | | | |
+| | | | | PoshC2 | | | |
 
 > [!NOTE]
 > This is the list of tools that have been observed during various intrusions that have been attributed to Sandworm
