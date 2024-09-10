@@ -12,12 +12,14 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
+| Chisel | Sandworm |
 | dnscat2 | EMBER BEAR |
 | Dropbear | COZY BEAR |
 | GOST | EMBER BEAR |
 | Iodine | EMBER BEAR |
 | OpenSSH | FANCY BEAR |
+| Pivotnacci | Sandworm |
 | ProxyChains | EMBER BEAR |
-| ReGeorg | COZY BEAR, FANCY BEAR, EMBER BEAR |
+| ReGeorg | COZY BEAR, FANCY BEAR, EMBER BEAR, Sandworm |
 | Rsockstun | COZY BEAR |
 | SSHDoor | FANCY BEAR |
