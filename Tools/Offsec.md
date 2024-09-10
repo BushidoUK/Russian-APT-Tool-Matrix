@@ -12,23 +12,25 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | Brute Ratel C4 | COZY BEAR |
-| Cobalt Strike | COZY BEAR |
+| Cobalt Strike | COZY BEAR, Sandworm |
 | CrackMapExec | EMBER BEAR |
-| Impacket | COZY BEAR, FANCY BEAR, EMBER BEAR |
+| Empyre | FANCY BEAR, Sandworm |
+| Impacket | COZY BEAR, FANCY BEAR, EMBER BEAR, Sandworm |
 | JuicyPotatoNG | Sandworm |
 | Koadic | FANCY BEAR |
 | LinPEAS | EMBER BEAR |
 | NetCat | EMBER BEAR |
 | Nishang | FANCY BEAR |
-| Metasploit | FANCY BEAR, EMBER BEAR |
-| Meterpreter | EMBER BEAR |
-| PAS Web Shell | EMBER BEAR |
+| Metasploit | FANCY BEAR, EMBER BEAR, Sandworm |
+| Meterpreter | EMBER BEAR, Sandworm |
+| PAS Web Shell | EMBER BEAR, Sandworm |
+| PoshC2 | Sandworm |
 | PowerSploit | COZY BEAR |
-| PowerShell Empire | FANCY BEAR |
+| PowerShell Empire | FANCY BEAR, Sandworm |
 | Responder | FANCY BEAR, EMBER BEAR |
 | RottenPotatoNG | Sandworm |
 | Rubeus | COZY BEAR |
 | Sliver | COZY BEAR |
 | Weevely Web Shell | Sandworm |
 | WinPEAS | COZY BEAR |
-| WSO Web Shell | EMBER BEAR |
+| WSO Web Shell | EMBER BEAR, Sandworm |
