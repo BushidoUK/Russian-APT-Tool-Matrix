@@ -16,6 +16,7 @@
 | Impacket | COZY BEAR, FANCY BEAR, EMBER BEAR |
 | Koadic | FANCY BEAR |
 | LinPEAS | EMBER BEAR |
+| NetCat | EMBER BEAR |
 | Nishang | FANCY BEAR |
 | Metasploit | FANCY BEAR, EMBER BEAR |
 | Meterpreter | EMBER BEAR |
