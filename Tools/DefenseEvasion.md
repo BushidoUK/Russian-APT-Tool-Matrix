@@ -13,3 +13,4 @@
 |---|---|
 | EDRSandBlast | COZY BEAR |
 | libprocesshider | Sandworm |
+| SDelete | Sandworm |
