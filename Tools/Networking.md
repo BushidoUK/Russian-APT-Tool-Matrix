@@ -20,3 +20,4 @@
 | ProxyChains | EMBER BEAR |
 | ReGeorg | COZY BEAR, FANCY BEAR, EMBER BEAR |
 | Rsockstun | COZY BEAR |
+| SSHDoor | FANCY BEAR |
