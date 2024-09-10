@@ -12,3 +12,4 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | EDRSandBlast | COZY BEAR |
+| libprocesshider | Sandworm |
