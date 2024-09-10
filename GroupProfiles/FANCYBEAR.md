@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|---|---|
 | | | | Mimikatz | Impacket | OpenSSH | MiniDump | |
 | | | | | Koadic | ReGeorg | Windows Event Utility (wevtutil) | |
-| | | | | Nishang | | | |
+| | | | | Nishang | SSHDoor | | |
 | | | | | Metasploit | | | |
 | | | | | PowerShell Empire | | | |
 | | | | | Responder | | | |
