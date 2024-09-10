@@ -15,10 +15,12 @@
 | Amass | EMBER BEAR |
 | AADInternals | COZY BEAR |
 | AdFind | COZY BEAR |
-| Bloodhound | COZY BEAR |
+| Adminer | EMBER BEAR |
+| Bloodhound | COZY BEAR, EMBER BEAR |
 | Droopescan | EMBER BEAR |
 | DSInternals | COZY BEAR |
 | JoomScan | EMBER BEAR |
+| LdapDomainDump | EMBER BEAR |
 | Nmap | EMBER BEAR |
 | Masscan | EMBER BEAR |
 | RoadTools | COZY BEAR |
