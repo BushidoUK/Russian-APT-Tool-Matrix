@@ -12,6 +12,6 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | MiniDump | FANCY BEAR |
-| PsExec | COZY BEAR |
+| PsExec | COZY BEAR, EMBER BEAR |
 | Windows Event Utility (wevtutil) | FANCY BEAR |
 | WMIC | COZY BEAR |
