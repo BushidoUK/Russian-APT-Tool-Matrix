@@ -15,6 +15,7 @@
 | Cobalt Strike | COZY BEAR |
 | CrackMapExec | EMBER BEAR |
 | Impacket | COZY BEAR, FANCY BEAR, EMBER BEAR |
+| JuicyPotatoNG | Sandworm |
 | Koadic | FANCY BEAR |
 | LinPEAS | EMBER BEAR |
 | NetCat | EMBER BEAR |
@@ -25,7 +26,9 @@
 | PowerSploit | COZY BEAR |
 | PowerShell Empire | FANCY BEAR |
 | Responder | FANCY BEAR, EMBER BEAR |
+| RottenPotatoNG | Sandworm |
 | Rubeus | COZY BEAR |
 | Sliver | COZY BEAR |
+| Weevely Web Shell | Sandworm |
 | WinPEAS | COZY BEAR |
 | WSO Web Shell | EMBER BEAR |
