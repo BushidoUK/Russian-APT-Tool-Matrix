@@ -12,13 +12,18 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | Cobalt Strike | COZY BEAR |
-| Impacket | COZY BEAR, FANCY BEAR |
+| CrackMapExec | EMBER BEAR |
+| Impacket | COZY BEAR, FANCY BEAR, EMBER BEAR |
 | Koadic | FANCY BEAR |
+| LinPEAS | EMBER BEAR |
 | Nishang | FANCY BEAR |
-| Metasploit | FANCY BEAR |
+| Metasploit | FANCY BEAR, EMBER BEAR |
+| Meterpreter | EMBER BEAR |
+| PAS Web Shell | EMBER BEAR |
 | PowerSploit | COZY BEAR |
 | PowerShell Empire | FANCY BEAR |
-| Responder | FANCY BEAR |
+| Responder | FANCY BEAR, EMBER BEAR |
 | Rubeus | COZY BEAR |
 | Sliver | COZY BEAR |
 | WinPEAS | COZY BEAR |
+| WSO Web Shell | EMBER BEAR |
