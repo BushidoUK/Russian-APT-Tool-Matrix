@@ -8,6 +8,7 @@
 |---|---|---|
 | 5 September 2024 | EMBER BEAR | https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-249a |
 | 19 June 2024 | COZY BEAR | https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-006/ |
+| 1 May 2024 | FANCY BEAR | https://www.trendmicro.com/en_us/research/24/e/router-roulette.html |
 | 28 December 2023 | FANCY BEAR | https://cert.gov.ua/article/6276894 |
 | 13 December 2023 | COZY BEAR | https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-347a | 
 | 8 December 2023 | FANCY BEAR | https://securityintelligence.com/x-force/itg05-ops-leverage-israel-hamas-conflict-lures-to-deliver-headlace-malware/ |
