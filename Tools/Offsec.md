@@ -11,6 +11,7 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
+| Brute Ratel C4 | COZY BEAR |
 | Cobalt Strike | COZY BEAR |
 | CrackMapExec | EMBER BEAR |
 | Impacket | COZY BEAR, FANCY BEAR, EMBER BEAR |
