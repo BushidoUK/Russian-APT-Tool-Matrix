@@ -12,7 +12,11 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
+| dnscat2 | EMBER BEAR |
 | Dropbear | COZY BEAR |
+| GOST | EMBER BEAR |
+| Iodine | EMBER BEAR |
 | OpenSSH | FANCY BEAR |
-| ReGeorg | COZY BEAR, FANCY BEAR |
+| ProxyChains | EMBER BEAR |
+| ReGeorg | COZY BEAR, FANCY BEAR, EMBER BEAR |
 | Rsockstun | COZY BEAR |
