@@ -14,6 +14,7 @@
 | 19 April 2024 | Sandworm | https://cert.gov.ua/article/6278706 |
 | 17 April 2024 | Sandworm | https://services.google.com/fh/files/misc/apt44-unearthing-sandworm.pdf |
 | 21 March 2024 | Turla | https://blog.talosintelligence.com/tinyturla-full-kill-chain/ |
+| 22 January 2024 | UAC-0050 | https://cert.gov.ua/article/6277285 |
 | 28 December 2023 | FANCY BEAR | https://cert.gov.ua/article/6276894 |
 | 13 December 2023 | COZY BEAR | https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-347a | 
 | 8 December 2023 | FANCY BEAR | https://securityintelligence.com/x-force/itg05-ops-leverage-israel-hamas-conflict-lures-to-deliver-headlace-malware/ |
