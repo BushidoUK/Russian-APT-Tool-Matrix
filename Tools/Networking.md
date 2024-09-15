@@ -15,6 +15,7 @@
 | Chisel | Sandworm |
 | dnscat2 | EMBER BEAR |
 | Dropbear | COZY BEAR |
+| FortiClient | BERSERK BEAR |
 | GOST | EMBER BEAR |
 | Iodine | EMBER BEAR |
 | OpenSSH | FANCY BEAR |
