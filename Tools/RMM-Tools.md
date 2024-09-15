@@ -13,3 +13,4 @@
 | RemCom | Sandworm |
 | RemoteUtilities | UAC-0050 |
 | SyncThing | UAC-0020 |
+| TeamViewer | BERSERK BEAR |
