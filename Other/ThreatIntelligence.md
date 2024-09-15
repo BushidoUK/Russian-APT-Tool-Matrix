@@ -21,6 +21,7 @@
 | 27 January 2023 | COZY BEAR | https://go.recordedfuture.com/hubfs/reports/cta-2023-0127.pdf |
 | 2 May 2022 | COZY BEAR | https://cloud.google.com/blog/topics/threat-intelligence/unc3524-eye-spy-email/ |
 | 27 January 2022 | COZY BEAR | https://www.crowdstrike.com/blog/observations-from-the-stellarparticle-campaign/ | 
+| 4 November 2021 | Gamaredon | https://ssu.gov.ua/uploads/files/DKIB/Technical%20report%20Armagedon.pdf |
 | 25 October 2021 | COZY BEAR | https://www.microsoft.com/en-us/security/blog/2021/10/25/nobelium-targeting-delegated-administrative-privileges-to-facilitate-broader-attacks/ |
 | 1 July 2021 | FANCY BEAR | https://media.defense.gov/2021/Jul/01/2002753896/-1/-1/1/CSA_GRU_GLOBAL_BRUTE_FORCE_CAMPAIGN_UOO158036-21.PDF |
 | 27 May 2021 | COZY BEAR | https://www.microsoft.com/en-us/security/blog/2021/05/27/new-sophisticated-email-based-attack-from-nobelium/ |
