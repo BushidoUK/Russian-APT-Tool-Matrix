@@ -1,4 +1,5 @@
 # COZY BEAR Tools
+- Aliases: APT29, TA421, Midnight Blizzard (formerly Yttrium), ITG11, Iron Hemlock, Blue Kitsune, APT-C-42, Cloaked Ursa, The Dukes, UAC-0029		
 
 | Discovery | RMM Tools | Defense Evasion | Credential Theft | OffSec | Networking | LOLBAS | Exfiltration |
 |---|---|---|---|---|---|---|---|
