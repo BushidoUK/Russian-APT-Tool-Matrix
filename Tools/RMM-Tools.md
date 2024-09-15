@@ -11,6 +11,8 @@
 |---|---|
 | InnoSetup | UAC-0020 |
 | RemCom | Sandworm |
+| Remote Manipulator System (RMS) | Gamaredon |
 | RemoteUtilities | UAC-0050 |
 | SyncThing | UAC-0020 |
 | TeamViewer | BERSERK BEAR |
+| UltraVNC | Gamaredon |
