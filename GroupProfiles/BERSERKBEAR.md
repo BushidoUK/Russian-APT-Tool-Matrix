@@ -11,4 +11,6 @@
 #### Sources
 | Date Published | Report |
 |---|---|
-| | |
+| 24 July 2019 | https://www.secureworks.com/research/resurgent-iron-liberty-targeting-energy-sector |
+| 16 March 2018 | https://www.cisa.gov/news-events/alerts/2018/03/15/russian-government-cyber-activity-targeting-energy-and-other-critical-infrastructure-sectors |
+| 20 October 2017 | https://symantec-enterprise-blogs.security.com/threat-intelligence/dragonfly-energy-sector-cyber-attacks |
