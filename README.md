@@ -34,7 +34,7 @@ A tool matrix for Russian APTs based on the [Ransomware Tool Matrix](https://git
 
 ## Types of Russian APTs
 > [!TIP]
-> This repo also contains multiple types of Russian APTs, this includes the GRU, SVR, and FSB
+> This repo also contains multiple types of Russian APTs, this includes the GRU, SVR, and FSB. The alias of each Russian APT group has been chosen by what the author of this repo believes it is most well-known as.
 > - **Russian GRU:** Main Intelligence Directorate (Russian Military)
 > - **Russian SVR:** Foreign Intelligence Service of the Russian Federation
 > - **Russian FSB:** Federal Security Service of the Russian Federation
