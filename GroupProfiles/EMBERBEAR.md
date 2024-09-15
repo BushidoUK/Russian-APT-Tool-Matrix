@@ -1,4 +1,5 @@
 # EMBER BEAR Tools
+- Aliases: Lorec53, UNC2589, TA471, Nascent Ursa, UAC-0056, Frozenvista, Cadet Blizzard
 
 | Discovery | RMM Tools | Defense Evasion | Credential Theft | OffSec | Networking | LOLBAS | Exfiltration |
 |---|---|---|---|---|---|---|---|
