@@ -13,9 +13,12 @@
 |---|---|
 | Brute Ratel C4 | COZY BEAR |
 | Cobalt Strike | COZY BEAR, Sandworm |
-| CrackMapExec | EMBER BEAR |
+| CrackMapExec | EMBER BEAR, BERSERK BEAR |
 | Empyre | FANCY BEAR, Sandworm |
-| Impacket | COZY BEAR, FANCY BEAR, EMBER BEAR, Sandworm |
+| EvilGinx | COLDRIVER |
+| Evil-WinRM | Turla |
+| Hydra | BERSERK BEAR |
+| Impacket | COZY BEAR, FANCY BEAR, EMBER BEAR, Sandworm, BERSERK BEAR |
 | JuicyPotatoNG | Sandworm |
 | Koadic | FANCY BEAR |
 | LinPEAS | EMBER BEAR |
@@ -24,6 +27,7 @@
 | Metasploit | FANCY BEAR, EMBER BEAR, Sandworm |
 | Meterpreter | EMBER BEAR, Sandworm |
 | PAS Web Shell | EMBER BEAR, Sandworm |
+| Phishery | BERSERK BEAR |
 | PoshC2 | Sandworm |
 | PowerSploit | COZY BEAR |
 | PowerShell Empire | FANCY BEAR, Sandworm |
