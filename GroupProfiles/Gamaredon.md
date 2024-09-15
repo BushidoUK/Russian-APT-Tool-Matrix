@@ -3,7 +3,8 @@
 
 | Discovery | RMM Tools | Defense Evasion | Credential Theft | OffSec | Networking | LOLBAS | Exfiltration |
 |---|---|---|---|---|---|---|---|
-| | | | | | | | |
+| | RMS | | Mimikatz | | | LOLBAS | |
+| | UltraVNC | | | | | | |
 
 > [!NOTE]
 > This is the list of tools that have been observed during various intrusions that have been attributed to Gamaredon
@@ -11,4 +12,4 @@
 #### Sources
 | Date Published | Report |
 |---|---|
-| | |
+| 4 November 2021 | https://ssu.gov.ua/uploads/files/DKIB/Technical%20report%20Armagedon.pdf |
