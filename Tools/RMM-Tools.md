@@ -11,4 +11,5 @@
 |---|---|
 | InnoSetup | UAC-0020 |
 | RemCom | Sandworm |
+| RemoteUtilities | UAC-0050 |
 | SyncThing | UAC-0020 |
