@@ -1,5 +1,5 @@
 # COLDRIVER Tools
-- COLDRIVER's Aliases: Callisto, TA446, Gossamer Bear, Star Blizzard (formerly Seaborgium), Iron Frontier, BlueCharlie (formerly TAG-53)
+- Aliases: Callisto, TA446, Gossamer Bear, Star Blizzard (formerly Seaborgium), Iron Frontier, BlueCharlie (formerly TAG-53)
 
 | Discovery | RMM Tools | Defense Evasion | Credential Theft | OffSec | Networking | LOLBAS | Exfiltration |
 |---|---|---|---|---|---|---|---|
