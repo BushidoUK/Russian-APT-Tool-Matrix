@@ -9,4 +9,6 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
+| InnoSetup | UAC-0020 |
 | RemCom | Sandworm |
+| SyncThing | UAC-0020 |
