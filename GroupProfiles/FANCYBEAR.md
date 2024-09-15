@@ -1,4 +1,5 @@
 # FANCY BEAR Tools
+- Aliases: APT28, TA422, BlueDelta, Sofacy, Forest Blizzard (formerly Strontium),	ITG05, Iron Twilight, Blue Athena, APT-C-20, Pawn Storm, Sednit, Fighting Ursa, Tsar Team, Grizzly Steppe, Snakemackerel, UAC-0028, Frozenlake
 
 | Discovery | RMM Tools | Defense Evasion | Credential Theft | OffSec | Networking | LOLBAS | Exfiltration |
 |---|---|---|---|---|---|---|---|
