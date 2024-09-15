@@ -3,6 +3,11 @@
 
 | Discovery | RMM Tools | Defense Evasion | Credential Theft | OffSec | Networking | LOLBAS | Exfiltration |
 |---|---|---|---|---|---|---|---|
+| Angry IP Scanner | TeamViewer | | Mimikatz | Hydra | FortiClient | PsExec | |
+| | | | ProcDump | Impacket | | BITSAdmin | |
+| | | | | CrackMapExec | | | |
+| | | | | Phishery | | | |
+| | | | | | | | |
 | | | | | | | | |
 
 > [!NOTE]
