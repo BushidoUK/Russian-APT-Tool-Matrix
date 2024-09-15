@@ -11,7 +11,8 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
+| BITSAdmin | BERSERK BEAR | 
 | MiniDump | FANCY BEAR |
-| PsExec | COZY BEAR, EMBER BEAR |
+| PsExec | COZY BEAR, EMBER BEAR, BERSERK BEAR |
 | Windows Event Utility (wevtutil) | FANCY BEAR |
 | WMIC | COZY BEAR |
