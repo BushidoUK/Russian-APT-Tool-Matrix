@@ -3,7 +3,7 @@
 
 | Discovery | RMM Tools | Defense Evasion | Credential Theft | OffSec | Networking | LOLBAS | Exfiltration |
 |---|---|---|---|---|---|---|---|
-| | Remote Manipulator System (RMS) | | Mimikatz | | | LOLBAS | |
+| | Remote Manipulator System (RMS) | | Mimikatz | | | PsExec | |
 | | UltraVNC | | | | | | |
 
 > [!NOTE]
