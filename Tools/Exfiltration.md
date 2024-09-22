@@ -10,11 +10,15 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| Dropbox | COZY BEAR |
+| 4Shared | Turla
+| Dropbox | COZY BEAR, Turla |
 | Firebase | COZY BEAR |
+| Gmail | Turla |
+| GMX | Turla |
 | Google Drive | COZY BEAR |
 | Notion | COZY BEAR |
 | MEGA | EMBER BEAR |
-| OneDrive | COZY BEAR |
+| OneDrive | COZY BEAR, Turla |
 | Trello | COZY BEAR |
 | Rclone | EMBER BEAR |
+| VFEmail | Turla |
