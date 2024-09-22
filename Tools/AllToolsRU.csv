@@ -1,0 +1,28 @@
+Discovery,RMM Tools,Defense Evasion,Credential Theft,OffSec,Networking,LOLBAS,Exfiltration
+Acunetix,InnoSetup,EDRSandBlast,CookieEditor,Brute Ratel C4,Chisel,BITSAdmin,4Shared
+Amass,IntelliAdmin,libprocesshider,Mimikatz,Cobalt Strike,dnscat2,MiniDump,Dropbox
+AADInternals,RemCom,PowerShellRunner,ProcDump,CrackMapExec,Dropbear,PsExec,Firebase
+AdFind,Remote Manipulator System (RMS),SDelete,SharpChromium,Empyre,FortiClient,Windows Event Utility (wevtutil),Gmail
+Adminer,RemoteUtilities,VirtualBox Driver,,EvilGinx,GOST,WMIC,GMX
+Angry IP Scanner,SyncThing,,,Evil-WinRM,Iodine,,Google Drive
+Bloodhound,TeamViewer,,,Hydra,OpenSSH,,Notion
+Droopescan,UltraVNC,,,Impacket,Pivotnacci,,MEGA
+DSInternals,,,,JuicyPotatoNG,ProxyChains,,OneDrive
+JoomScan,,,,Koadic,ReGeorg,,Trello
+LdapDomainDump,,,,LinPEAS,Rsockstun,,Rclone
+NBTScan,,,,NetCat,SSHDoor,,VFEmail
+Nmap,,,,Nishang,,,
+Masscan,,,,Metasploit,,,
+RoadTools,,,,Meterpreter,,,
+SScan,,,,PAS Web Shell,,,
+WPScan,,,,Phishery,,,
+,,,,PoshC2,,,
+,,,,PowerSploit,,,
+,,,,PowerShell Empire,,,
+,,,,Responder,,,
+,,,,RottenPotatoNG,,,
+,,,,Rubeus,,,
+,,,,Sliver,,,
+,,,,Weevely Web Shell,,,
+,,,,WinPEAS,,,
+,,,,WSO Web Shell,,,
