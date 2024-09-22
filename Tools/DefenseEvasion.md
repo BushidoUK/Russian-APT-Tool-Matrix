@@ -13,4 +13,6 @@
 |---|---|
 | EDRSandBlast | COZY BEAR |
 | libprocesshider | Sandworm |
+| PowerShellRunner | Turla |
 | SDelete | Sandworm |
+| VirtualBox Driver | Turla |
