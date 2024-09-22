@@ -10,7 +10,7 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| 4Shared | Turla
+| 4Shared | Turla |
 | Dropbox | COZY BEAR, Turla |
 | Firebase | COZY BEAR |
 | Gmail | Turla |
