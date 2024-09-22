@@ -26,9 +26,14 @@
 | 1 July 2021 | FANCY BEAR | https://media.defense.gov/2021/Jul/01/2002753896/-1/-1/1/CSA_GRU_GLOBAL_BRUTE_FORCE_CAMPAIGN_UOO158036-21.PDF |
 | 27 May 2021 | COZY BEAR | https://www.microsoft.com/en-us/security/blog/2021/05/27/new-sophisticated-email-based-attack-from-nobelium/ |
 | 18 December 2020 | COZY BEAR | https://www.microsoft.com/en-us/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/ |
+| 2 December 2020 | Turla | https://www.welivesecurity.com/2020/12/02/turla-crutch-keeping-back-door-open/ |
 | 10 September 2020 | FANCY BEAR | https://www.microsoft.com/en-us/security/blog/2020/09/10/strontium-detecting-new-patters-credential-harvesting/ |
+| 15 June 2020 | Turla | https://web-assets.esetstatic.com/wls/2020/05/ESET_Turla_ComRAT.pdf |
 | 24 July 2019 | BERSERK BEAR | https://www.secureworks.com/research/resurgent-iron-liberty-targeting-energy-sector |
+| 20 June 2019 | Turla | https://symantec-enterprise-blogs.security.com/threat-intelligence/waterbug-espionage-governments |
+| 17 August 2018 | Turla | https://web-assets.esetstatic.com/wls/2018/08/Eset-Turla-Outlook-Backdoor.pdf |
 | 6 June 2018 | FANCY BEAR | https://unit42.paloaltonetworks.com/unit42-sofacy-groups-parallel-attacks/ |
+| 22 May 2018 | https://www.welivesecurity.com/2018/05/22/turla-mosquito-shift-towards-generic-tools/ |
 | 18 April 2018 | FANCY BEAR | https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-108 |
 | 16 March 2018 | BERSERK BEAR | https://www.cisa.gov/news-events/alerts/2018/03/15/russian-government-cyber-activity-targeting-energy-and-other-critical-infrastructure-sectors |
 | 20 October 2017 | BERSERK BEAR | https://symantec-enterprise-blogs.security.com/threat-intelligence/dragonfly-energy-sector-cyber-attacks |
