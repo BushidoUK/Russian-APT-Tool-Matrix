@@ -24,13 +24,13 @@
 | LinPEAS | EMBER BEAR |
 | NetCat | EMBER BEAR |
 | Nishang | FANCY BEAR |
-| Metasploit | FANCY BEAR, EMBER BEAR, Sandworm |
+| Metasploit | FANCY BEAR, EMBER BEAR, Sandworm, Turla |
 | Meterpreter | EMBER BEAR, Sandworm |
 | PAS Web Shell | EMBER BEAR, Sandworm |
 | Phishery | BERSERK BEAR |
 | PoshC2 | Sandworm |
-| PowerSploit | COZY BEAR |
-| PowerShell Empire | FANCY BEAR, Sandworm |
+| PowerSploit | COZY BEAR, Turla |
+| PowerShell Empire | FANCY BEAR, Sandworm, Turla |
 | Responder | FANCY BEAR, EMBER BEAR |
 | RottenPotatoNG | Sandworm |
 | Rubeus | COZY BEAR |
