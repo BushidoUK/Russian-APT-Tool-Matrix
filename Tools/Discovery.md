@@ -22,7 +22,9 @@
 | DSInternals | COZY BEAR |
 | JoomScan | EMBER BEAR |
 | LdapDomainDump | EMBER BEAR |
+| NBTScan | Turla |
 | Nmap | EMBER BEAR |
 | Masscan | EMBER BEAR |
 | RoadTools | COZY BEAR |
+| SScan | Turla |
 | WPScan | EMBER BEAR |
