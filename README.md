@@ -29,7 +29,7 @@ A tool matrix for Russian APTs based on the [Ransomware Tool Matrix](https://git
 
 ## Additional Resources
 - [List of Russian APT group profiles](https://github.com/BushidoUK/Russian-APT-Tool-Matrix/tree/main/GroupProfiles)
-- List of All Tools by Type
+- [List of All Russian APT Tools by Type](https://github.com/BushidoUK/Russian-APT-Tool-Matrix/blob/main/Tools/AllToolsRU.csv)
 
 ## Types of Russian APTs
 > [!TIP]
