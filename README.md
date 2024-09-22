@@ -1,5 +1,4 @@
-<img src="![OIG4](https://github.com/user-attachments/assets/b4dbe4d0-77dc-4899-bff5-c872c4eb8f8e)
-" width="250" />
+<img src="https://github.com/user-attachments/assets/b4dbe4d0-77dc-4899-bff5-c872c4eb8f8e" width="300" />
 
 # Russian APT Tool Matrix
 A tool matrix for Russian APTs based on the [Ransomware Tool Matrix](https://github.com/BushidoUK/Ransomware-Tool-Matrix/)
