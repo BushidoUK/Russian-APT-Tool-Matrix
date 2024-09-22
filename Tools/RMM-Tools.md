@@ -10,6 +10,7 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | InnoSetup | UAC-0020 |
+| IntelliAdmin | Turla |
 | RemCom | Sandworm |
 | Remote Manipulator System (RMS) | Gamaredon |
 | RemoteUtilities | UAC-0050 |
