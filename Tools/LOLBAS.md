@@ -13,6 +13,6 @@
 |---|---|
 | BITSAdmin | BERSERK BEAR | 
 | MiniDump | FANCY BEAR |
-| PsExec | COZY BEAR, EMBER BEAR, BERSERK BEAR, Gamaredon |
+| PsExec | COZY BEAR, EMBER BEAR, BERSERK BEAR, Gamaredon, Turla |
 | Windows Event Utility (wevtutil) | FANCY BEAR |
 | WMIC | COZY BEAR |
