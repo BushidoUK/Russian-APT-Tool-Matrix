@@ -1,5 +1,6 @@
 # COZY BEAR Tools
-- Aliases: APT29, TA421, Midnight Blizzard (formerly Yttrium), ITG11, Iron Hemlock, Blue Kitsune, APT-C-42, Cloaked Ursa, The Dukes, UAC-0029		
+- Aliases: APT29, TA421, Midnight Blizzard (formerly Yttrium), ITG11, Iron Hemlock, Blue Kitsune, APT-C-42, Cloaked Ursa, The Dukes, UAC-0029
+- Attribution: SVR
 
 | Discovery | RMM Tools | Defense Evasion | Credential Theft | OffSec | Networking | LOLBAS | Exfiltration |
 |---|---|---|---|---|---|---|---|
@@ -23,4 +24,5 @@
 | 27 January 2022 | https://www.crowdstrike.com/blog/observations-from-the-stellarparticle-campaign/ | 
 | 25 October 2021 | https://www.microsoft.com/en-us/security/blog/2021/10/25/nobelium-targeting-delegated-administrative-privileges-to-facilitate-broader-attacks/ |
 | 27 May 2021 | https://www.microsoft.com/en-us/security/blog/2021/05/27/new-sophisticated-email-based-attack-from-nobelium/ |
+| 15 April 2021 | https://www.gov.uk/government/news/russia-uk-and-us-expose-global-campaigns-of-malign-activity-by-russian-intelligence-services |
 | 18 December 2020 | https://www.microsoft.com/en-us/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/ |
