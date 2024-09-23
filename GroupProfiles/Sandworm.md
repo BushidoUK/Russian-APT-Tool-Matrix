@@ -1,5 +1,6 @@
 # Sandworm Tools
 - Aliases: APT44, Hades, OlympicDestroyer, Voodoo Bear, Seashell Blizzard (formerly Iridium), Sunglow Blizzard, Iron Viking, Blue Echidna, Electrum, APT-C-13, Telebots, Quedagh, UAC-0082/UAC-0113/UAC-0165, Frozenbarents
+- Attribution: GRU Unit 74455
 
 | Discovery | RMM Tools | Defense Evasion | Credential Theft | OffSec | Networking | LOLBAS | Exfiltration |
 |---|---|---|---|---|---|---|---|
