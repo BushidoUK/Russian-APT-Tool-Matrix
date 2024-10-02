@@ -13,5 +13,5 @@
 #### Sources
 | Date Published | Report |
 |---|---|
-| 26 September 2024 https://www.welivesecurity.com/en/eset-research/cyberespionage-gamaredon-way-analysis-toolset-used-spy-ukraine-2022-2023 |
+| 26 September 2024 | https://www.welivesecurity.com/en/eset-research/cyberespionage-gamaredon-way-analysis-toolset-used-spy-ukraine-2022-2023 |
 | 4 November 2021 | https://ssu.gov.ua/uploads/files/DKIB/Technical%20report%20Armagedon.pdf |
