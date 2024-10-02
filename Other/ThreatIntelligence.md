@@ -6,6 +6,7 @@
 
 | Date Published | Russian APT | Report |
 |---|---|---|
+| 26 September 2024 | Gamaredon | https://www.welivesecurity.com/en/eset-research/cyberespionage-gamaredon-way-analysis-toolset-used-spy-ukraine-2022-2023 |
 | 5 September 2024 | EMBER BEAR | https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-249a |
 | 14 August 2024 | Star Blizzard | https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ |
 | 19 June 2024 | COZY BEAR | https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-006/ |
