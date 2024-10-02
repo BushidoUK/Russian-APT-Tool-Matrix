@@ -13,11 +13,13 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | Chisel | Sandworm |
+| Cloudflared | Gamaredon |
 | dnscat2 | EMBER BEAR |
 | Dropbear | COZY BEAR |
 | FortiClient | BERSERK BEAR |
 | GOST | EMBER BEAR |
 | Iodine | EMBER BEAR |
+| Ngrok | Gamaredon |
 | OpenSSH | FANCY BEAR |
 | Pivotnacci | Sandworm |
 | ProxyChains | EMBER BEAR |
