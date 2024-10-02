@@ -19,6 +19,7 @@
 | Notion | COZY BEAR |
 | MEGA | EMBER BEAR |
 | OneDrive | COZY BEAR, Turla |
+| Telegram | Gamaredon |
 | Trello | COZY BEAR |
-| Rclone | EMBER BEAR |
+| Rclone | EMBER BEAR, Gamaredon |
 | VFEmail | Turla |
