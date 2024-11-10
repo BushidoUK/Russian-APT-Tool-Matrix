@@ -17,6 +17,7 @@
 #### Sources
 | Date Published | Report |
 |---|---|
+| 25 October 2024 | https://cert.gov.ua/article/6281123 |
 | 28 December 2023 | https://cert.gov.ua/article/6276894 |
 | 8 December 2023 | https://securityintelligence.com/x-force/itg05-ops-leverage-israel-hamas-conflict-lures-to-deliver-headlace-malware/ |
 | 1 July 2021 | https://media.defense.gov/2021/Jul/01/2002753896/-1/-1/1/CSA_GRU_GLOBAL_BRUTE_FORCE_CAMPAIGN_UOO158036-21.PDF |
