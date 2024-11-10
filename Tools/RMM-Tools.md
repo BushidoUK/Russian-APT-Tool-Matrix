@@ -11,9 +11,11 @@
 |---|---|
 | InnoSetup | UAC-0020 |
 | IntelliAdmin | Turla |
+| LiteManager | UAC-0050 |
 | RemCom | Sandworm |
-| Remote Manipulator System (RMS) | Gamaredon |
+| Remote Manipulator System (RMS) | Gamaredon, UAC-0050 |
 | RemoteUtilities | UAC-0050 |
+| SuperOps | UAC-0188 |
 | SyncThing | UAC-0020 |
 | TeamViewer | BERSERK BEAR |
 | UltraVNC | Gamaredon |
