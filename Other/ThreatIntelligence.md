@@ -6,11 +6,14 @@
 
 | Date Published | Russian APT | Report |
 |---|---|---|
+| 30 October 2024 | UAC-0050 | https://cert.gov.ua/article/6281202 |
 | 26 September 2024 | Gamaredon | https://www.welivesecurity.com/en/eset-research/cyberespionage-gamaredon-way-analysis-toolset-used-spy-ukraine-2022-2023 |
 | 5 September 2024 | EMBER BEAR | https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-249a |
 | 14 August 2024 | Star Blizzard | https://citizenlab.ca/2024/08/sophisticated-phishing-targets-russias-perceived-enemies-around-the-globe/ |
+| 17 July 2024 | UAC-0180 | https://cert.gov.ua/article/6280099 |
 | 19 June 2024 | COZY BEAR | https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-006/ |
 | 5 June 2024 | UAC-0020 | https://cert.gov.ua/article/6279600 |
+| 23 May 2024 | UAC-0188 | https://cert.gov.ua/article/6279419 |
 | 1 May 2024 | FANCY BEAR | https://www.trendmicro.com/en_us/research/24/e/router-roulette.html |
 | 19 April 2024 | Sandworm | https://cert.gov.ua/article/6278706 |
 | 17 April 2024 | Sandworm | https://services.google.com/fh/files/misc/apt44-unearthing-sandworm.pdf |
