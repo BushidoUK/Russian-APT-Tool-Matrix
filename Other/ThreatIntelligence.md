@@ -37,7 +37,7 @@
 | 20 June 2019 | Turla | https://symantec-enterprise-blogs.security.com/threat-intelligence/waterbug-espionage-governments |
 | 17 August 2018 | Turla | https://web-assets.esetstatic.com/wls/2018/08/Eset-Turla-Outlook-Backdoor.pdf |
 | 6 June 2018 | FANCY BEAR | https://unit42.paloaltonetworks.com/unit42-sofacy-groups-parallel-attacks/ |
-| 22 May 2018 | https://www.welivesecurity.com/2018/05/22/turla-mosquito-shift-towards-generic-tools/ |
+| 22 May 2018 | Turla | https://www.welivesecurity.com/2018/05/22/turla-mosquito-shift-towards-generic-tools/ |
 | 18 April 2018 | FANCY BEAR | https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-108 |
 | 16 March 2018 | BERSERK BEAR | https://www.cisa.gov/news-events/alerts/2018/03/15/russian-government-cyber-activity-targeting-energy-and-other-critical-infrastructure-sectors |
 | 20 October 2017 | BERSERK BEAR | https://symantec-enterprise-blogs.security.com/threat-intelligence/dragonfly-energy-sector-cyber-attacks |
