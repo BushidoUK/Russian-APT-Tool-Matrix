@@ -9,6 +9,7 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
+| Atera | UAC-0180 |
 | InnoSetup | UAC-0020 |
 | IntelliAdmin | Turla |
 | LiteManager | UAC-0050 |
