@@ -20,6 +20,7 @@
 | MEGA | EMBER BEAR |
 | OneDrive | COZY BEAR, Turla |
 | Telegram | Gamaredon |
+| Telegra[.]ph | Gamaredon |
 | Trello | COZY BEAR |
 | Rclone | EMBER BEAR, Gamaredon |
 | VFEmail | Turla |
