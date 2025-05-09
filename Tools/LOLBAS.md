@@ -15,5 +15,6 @@
 | MiniDump | FANCY BEAR |
 | PowerPoint.exe (DLL side-loading) | COZY BEAR |
 | PsExec | COZY BEAR, EMBER BEAR, BERSERK BEAR, Gamaredon, Turla |
+| sqlwriter.exe (DLL side-loading) | COZY BEAR |
 | Windows Event Utility (wevtutil) | FANCY BEAR |
 | WMIC | COZY BEAR |
