@@ -22,5 +22,6 @@
 | Telegram | Gamaredon |
 | Telegra[.]ph | Gamaredon |
 | Trello | COZY BEAR |
+| trycloudflare[.]com | Gamaredon |
 | Rclone | EMBER BEAR, Gamaredon |
 | VFEmail | Turla |
