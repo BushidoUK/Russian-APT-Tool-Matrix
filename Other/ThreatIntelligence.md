@@ -6,6 +6,7 @@
 
 | Date Published | Russian APT | Report |
 |---|---|---|
+| 15 April 2025 | COZY BEAR | https://research.checkpoint.com/2025/apt29-phishing-campaign/ |
 | 30 October 2024 | UAC-0050 | https://cert.gov.ua/article/6281202 |
 | 26 September 2024 | Gamaredon | https://www.welivesecurity.com/en/eset-research/cyberespionage-gamaredon-way-analysis-toolset-used-spy-ukraine-2022-2023 |
 | 5 September 2024 | EMBER BEAR | https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-249a |
