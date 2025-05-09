@@ -17,3 +17,4 @@
 | SDelete | Sandworm |
 | sqlwriter.exe (DLL side-loading) | COZY BEAR |
 | VirtualBox Driver | Turla |
+| VMware Tools (DLL side-loading) | COZY BEAR |
