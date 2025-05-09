@@ -26,3 +26,6 @@
 | ReGeorg | COZY BEAR, FANCY BEAR, EMBER BEAR, Sandworm |
 | Rsockstun | COZY BEAR |
 | SSHDoor | FANCY BEAR |
+| telegra[.]ph | Gamaredon |
+| teletype[.]in | Gamaredon |
+| trycloudflare[.]com | Gamaredon |
