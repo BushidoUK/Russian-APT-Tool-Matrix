@@ -15,4 +15,5 @@
 | libprocesshider | Sandworm |
 | PowerShellRunner | Turla |
 | SDelete | Sandworm |
+| sqlwriter.exe (DLL side-loading) | COZY BEAR |
 | VirtualBox Driver | Turla |
