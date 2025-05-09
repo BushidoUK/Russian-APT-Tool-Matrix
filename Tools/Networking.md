@@ -29,3 +29,5 @@
 | telegra[.]ph | Gamaredon |
 | teletype[.]in | Gamaredon |
 | trycloudflare[.]com | Gamaredon |
+| insiders[.]vscode[.]dev | UTA0352 |
+| vscode-redirect[.]azurewebsites.net | UTA0352 |
