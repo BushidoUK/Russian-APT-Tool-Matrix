@@ -17,6 +17,7 @@
 | AdFind | COZY BEAR |
 | Adminer | EMBER BEAR |
 | Angry IP Scanner | BERSERK BEAR |
+| AzureHound | Void Blizzard |
 | Bloodhound | COZY BEAR, EMBER BEAR |
 | Droopescan | EMBER BEAR |
 | DSInternals | COZY BEAR |
