@@ -15,7 +15,7 @@
 | Cobalt Strike | COZY BEAR, Sandworm |
 | CrackMapExec | EMBER BEAR, BERSERK BEAR |
 | Empyre | FANCY BEAR, Sandworm |
-| EvilGinx | COLDRIVER |
+| EvilGinx | COLDRIVER, Void Blizzard |
 | Evil-WinRM | Turla |
 | Hydra | BERSERK BEAR |
 | Impacket | COZY BEAR, FANCY BEAR, EMBER BEAR, Sandworm, BERSERK BEAR |
