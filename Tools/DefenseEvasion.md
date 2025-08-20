@@ -12,6 +12,7 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | EDRSandBlast | COZY BEAR |
+| Garble | Curly COMrades |
 | libprocesshider | Sandworm |
 | PowerShellRunner | Turla |
 | SDelete | Sandworm |
