@@ -12,6 +12,8 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | BITSAdmin | BERSERK BEAR | 
+| curl | Curly COMrades |
+| DCSync | Curly COMrades |
 | MiniDump | FANCY BEAR |
 | PowerPoint.exe (DLL side-loading) | COZY BEAR |
 | PsExec | COZY BEAR, EMBER BEAR, BERSERK BEAR, Gamaredon, Turla |
