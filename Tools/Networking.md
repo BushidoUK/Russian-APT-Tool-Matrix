@@ -20,7 +20,7 @@
 | GOST | EMBER BEAR |
 | Iodine | EMBER BEAR |
 | Ngrok | Gamaredon |
-| OpenSSH | FANCY BEAR |
+| OpenSSH | FANCY BEAR, Sandworm |
 | Pivotnacci | Sandworm |
 | ProxyChains | EMBER BEAR |
 | ReGeorg | COZY BEAR, FANCY BEAR, EMBER BEAR, Sandworm |
@@ -31,6 +31,7 @@
 | SOCKS5 | Curly COMrades |
 | telegra[.]ph | Gamaredon |
 | teletype[.]in | Gamaredon |
+| Tor | Sandworm |
 | trycloudflare[.]com | Gamaredon |
 | insiders[.]vscode[.]dev | UTA0352 |
 | vscode-redirect[.]azurewebsites.net | UTA0352 |
