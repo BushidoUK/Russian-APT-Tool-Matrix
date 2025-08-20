@@ -9,13 +9,14 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| Atera | UAC-0180 |
+| Atera | UAC-0180, Sandworm |
 | InnoSetup | UAC-0020 |
 | IntelliAdmin | Turla |
 | LiteManager | UAC-0050 |
 | RemCom | Sandworm |
 | Remote Manipulator System (RMS) | Gamaredon, UAC-0050 |
 | RemoteUtilities | UAC-0050, Curly COMrades |
+| Splashtop | Sandworm |
 | SuperOps | UAC-0188 |
 | SyncThing | UAC-0020 |
 | TeamViewer | BERSERK BEAR |
