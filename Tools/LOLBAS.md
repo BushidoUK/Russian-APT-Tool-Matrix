@@ -11,7 +11,8 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| BITSAdmin | BERSERK BEAR | 
+| BITSAdmin | BERSERK BEAR, Sandworm | 
+| certutil | Sandworm |
 | curl | Curly COMrades |
 | DCSync | Curly COMrades |
 | MiniDump | FANCY BEAR |
