@@ -24,8 +24,11 @@
 | Pivotnacci | Sandworm |
 | ProxyChains | EMBER BEAR |
 | ReGeorg | COZY BEAR, FANCY BEAR, EMBER BEAR, Sandworm |
+| Resocks | Curly COMrades |
 | Rsockstun | COZY BEAR |
 | SSHDoor | FANCY BEAR |
+| stunnel | Curly COMrades |
+| SOCKS5 | Curly COMrades |
 | telegra[.]ph | Gamaredon |
 | teletype[.]in | Gamaredon |
 | trycloudflare[.]com | Gamaredon |
