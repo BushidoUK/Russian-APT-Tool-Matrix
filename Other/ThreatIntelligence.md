@@ -6,6 +6,7 @@
 
 | Date Published | Russian APT | Report |
 |---|---|---|
+| 12 August 2025 | Curly COMrades | https://businessinsights.bitdefender.com/curly-comrades-new-threat-actor-targeting-geopolitical-hotbeds |
 | 27 May 2025 | Void Blizzard/LAUNDRY BEAR | https://www.microsoft.com/en-us/security/blog/2025/05/27/new-russia-affiliated-actor-void-blizzard-targets-critical-sectors-for-espionage/ |
 | 22 April 2025 | UTA0352, UTA0355 | https://www.volexity.com/blog/2025/04/22/phishing-for-codes-russian-threat-actors-target-microsoft-365-oauth-workflows/ |
 | 16 April 2025 | Gamaredon | https://harfanglab.io/insidethelab/gamaredons-pterolnk-analysis/ |
