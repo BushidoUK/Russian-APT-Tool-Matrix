@@ -18,7 +18,7 @@
 | EvilGinx | COLDRIVER, Void Blizzard |
 | Evil-WinRM | Turla |
 | Hydra | BERSERK BEAR |
-| Impacket | COZY BEAR, FANCY BEAR, EMBER BEAR, Sandworm, BERSERK BEAR |
+| Impacket | COZY BEAR, FANCY BEAR, EMBER BEAR, Sandworm, BERSERK BEAR, Curly COMrades |
 | JuicyPotatoNG | Sandworm |
 | Koadic | FANCY BEAR |
 | LinPEAS | EMBER BEAR |
