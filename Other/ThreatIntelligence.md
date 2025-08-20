@@ -11,6 +11,7 @@
 | 22 April 2025 | UTA0352, UTA0355 | https://www.volexity.com/blog/2025/04/22/phishing-for-codes-russian-threat-actors-target-microsoft-365-oauth-workflows/ |
 | 16 April 2025 | Gamaredon | https://harfanglab.io/insidethelab/gamaredons-pterolnk-analysis/ |
 | 15 April 2025 | COZY BEAR | https://research.checkpoint.com/2025/apt29-phishing-campaign/ |
+| 12 February 2025 | Sandworm | https://www.microsoft.com/en-us/security/blog/2025/02/12/the-badpilot-campaign-seashell-blizzard-subgroup-conducts-multiyear-global-access-operation/ |
 | 30 October 2024 | UAC-0050 | https://cert.gov.ua/article/6281202 |
 | 26 September 2024 | Gamaredon | https://www.welivesecurity.com/en/eset-research/cyberespionage-gamaredon-way-analysis-toolset-used-spy-ukraine-2022-2023 |
 | 5 September 2024 | EMBER BEAR | https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-249a |
