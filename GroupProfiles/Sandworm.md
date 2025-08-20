@@ -4,11 +4,11 @@
 
 | Discovery | RMM Tools | Defense Evasion | Credential Theft | OffSec | Networking | LOLBAS | Exfiltration |
 |---|---|---|---|---|---|---|---|
-| | RemCom | libprocesshider | | JuicyPotatoNG | Chisel | | |
-| | | SDelete | | RottenPotatoNG | Pivotnacci | | |
-| | | | | Impacket | ReGeorg | | |
-| | | | | Cobalt Strike | | | |
-| | | | | PowerShell Empire | | | |
+| | RemCom | libprocesshider | | JuicyPotatoNG | Chisel | BITSadmin | Rclone |
+| | Atera | SDelete | | RottenPotatoNG | Pivotnacci | curl | |
+| | Splashtop | | | Impacket | ReGeorg | | |
+| | | | | Cobalt Strike | Tor | | |
+| | | | | PowerShell Empire | OpenSSH | | |
 | | | | | Empyre | | | |
 | | | | | Metasploit | | | |
 | | | | | Meterpreter | | | |
@@ -23,5 +23,6 @@
 #### Sources
 | Date Published | Report |
 |---|---|
+| 12 February 2025 | https://www.microsoft.com/en-us/security/blog/2025/02/12/the-badpilot-campaign-seashell-blizzard-subgroup-conducts-multiyear-global-access-operation/ |
 | 19 April 2024	| https://cert.gov.ua/article/6278706 |
 | 17 April 2024	| https://services.google.com/fh/files/misc/apt44-unearthing-sandworm.pdf |
