@@ -11,6 +11,7 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | CookieEditor | COZY BEAR |
-| Mimikatz | COZY BEAR, FANCY BEAR, BERSERK BEAR, Gamaredon, Turla |
-| ProcDump | BERSERK BEAR |
+| Mimikatz | COZY BEAR, FANCY BEAR, BERSERK BEAR, Gamaredon, Turla, Curly COMrades |
+| ProcDump | BERSERK BEAR, Curly COMrades |
 | SharpChromium | COZY BEAR |
+| TrickDump | Curly COMrades |
