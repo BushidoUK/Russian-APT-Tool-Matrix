@@ -21,5 +21,5 @@
 | OneDrive | COZY BEAR, Turla |
 | Telegram | Gamaredon |
 | Trello | COZY BEAR |
-| Rclone | EMBER BEAR, Gamaredon |
+| Rclone | EMBER BEAR, Gamaredon, Sandworm |
 | VFEmail | Turla |
